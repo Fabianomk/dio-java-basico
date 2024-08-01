@@ -1,0 +1,3 @@
+### Meu nome é Fabiano e atualmente comecei a estudar Java.
+
+Através do bootcamp da Claro pela Dio, estou tendo meu primeiro contato com Java. Em anatomia de classe, pude adquirir conhecimento sobre classe, método, variáveis e boas práticas de programação. Também aprendi sobre Java Beans, entendendo as formas que a comunidade utiliza por padrão para escrever variáveis, métodos, classes, e assim por diante, para que nossos projetos sejam mais claros e legíveis. Além disso, conheci formas de organizar pacotes para deixar o projeto visualmente mais claro e organizado.
